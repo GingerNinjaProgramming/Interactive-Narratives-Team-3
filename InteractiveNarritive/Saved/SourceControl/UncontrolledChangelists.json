@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Parmj/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/AssetsvilleTown/Maps/InteractiveNarrativesTown_BuiltData.uasset",
+				"C:/Users/Parmj/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/AssetsvilleTown/Maps/InteractiveNarrativesTown.umap",
+				"C:/Users/Parmj/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/AssetsvilleTown/Maps/Demonstration.umap",
+				"C:/Users/Parmj/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset",
+				"C:/Users/Parmj/Documents/GitHub/InteractiveNarritive-Team3/InteractiveNarritive/Content/AssetsvilleTown/Meshes/GroundTilset/SM_grass_00.uasset"
+			]
+		}
+	]
+}
